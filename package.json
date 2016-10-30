@@ -2,7 +2,7 @@
   "name": "hap-nodejs",
   "version": "0.4.11",
   "config": { "unsafe-perm": true },
-  "scripts": { "foo": "npm_config_unsafe_perm=true env" },
+  "scripts": { "hap-nodejs": "npm_config_unsafe_perm=true env" },
   "description": "HAP-NodeJS is a Node.js implementation of HomeKit Accessory Server.",
   "main": "index.js",
   "engines": {
